@@ -1,0 +1,6 @@
+[submodule "ChatApplicationServer"]
+	path = ChatApplicationServer
+	url = https://github.com/M-Taha-Kirkgoz/ChatApplicationServer.git
+[submodule "ChatApplicationClient"]
+	path = ChatApplicationClient
+	url = https://github.com/M-Taha-Kirkgoz/ChatApplicationClient.git
